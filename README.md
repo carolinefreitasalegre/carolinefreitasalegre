@@ -3,6 +3,7 @@
 
 - 🔭 Atualmemte sou servidora Pública Municipal
 - 🌱 Estudando JavaScript 
+- 🌱 Tenho conhecimento em HTML e CSS
 - 📫 Contate-me no email: carolfreitas_92@hotmail.com
 - 😄 Pronouns: ela/dela
 
