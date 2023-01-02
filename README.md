@@ -1,4 +1,4 @@
-### Olá!!! Eu sou a Carol Freitas 👋🚀
+align="center"### Olá!!! Eu sou a Carol Freitas 👋🚀
 
 
 <div align="center">
