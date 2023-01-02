@@ -17,11 +17,6 @@
 
 
 <picture>
-	https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green
-</picture>
-
-
-<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
