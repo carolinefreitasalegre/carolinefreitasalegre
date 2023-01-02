@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: carolfreitas_92@hotmail.com
 - 😄 Pronouns: ela/dela
 - 
-[![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 	
 
