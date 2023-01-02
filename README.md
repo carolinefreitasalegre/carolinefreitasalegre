@@ -1,4 +1,4 @@
-<h1 align="center">### Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
+<h1 align="center" color=""2DFFA0">Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
 
 
 <div align="center">
