@@ -4,12 +4,12 @@
 <div align="center">
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__freitascarol)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-freitas-978925239/)
-</div>
 
 
 
 
-<div align="center">
+
+
   ![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green)
   <br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&theme=blue-green)
