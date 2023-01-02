@@ -11,7 +11,6 @@
 
 ![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=false&theme=radical)
 
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&theme=blue-green)
