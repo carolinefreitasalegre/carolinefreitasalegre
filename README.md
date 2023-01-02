@@ -27,10 +27,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true" />
 	
-	
-	
-	https://github-readme-stats.vercel.app/api?username={carolinefreitasalegre}&theme=blue-green
-	https://github-readme-stats.vercel.app/api/top-langs/?username={carolinefreitasalegre}&theme=blue-green
+	 srcset="https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green"
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&theme=blue-green"
 </picture>
 
 	
