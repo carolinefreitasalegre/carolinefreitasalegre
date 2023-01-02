@@ -26,6 +26,11 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true" />
+	
+	
+	
+	https://github-readme-stats.vercel.app/api?username={carolinefreitasalegre}&theme=blue-green
+	https://github-readme-stats.vercel.app/api/top-langs/?username={carolinefreitasalegre}&theme=blue-green
 </picture>
 
 	
