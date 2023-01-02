@@ -17,7 +17,7 @@
 
 
 <picture>
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={carolinefreitasalegre}&theme=blue-green)
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green)
 	
 </picture>
 
