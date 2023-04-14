@@ -1,7 +1,7 @@
 <h1 align="center" color=""2DFFA0">Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
 
 
-<div align="center">
+<div align="center" justfycontent="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__freitascarol)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-freitas-978925239/)
@@ -11,7 +11,7 @@
 
 
   ![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green)
-  <br>
+ 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&theme=blue-green)
 
 
