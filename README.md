@@ -7,7 +7,7 @@
 
 
 
-<div display="flex">
+<div display="flex" align="center" justfycontent="center">
     ![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&theme=blue-green) 
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&theme=blue-green)
 </div>
