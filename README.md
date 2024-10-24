@@ -20,7 +20,8 @@
 
 
 <div align="center">
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  [NestJS](https://nestjs.com) ![NestJS logo](https://docs.nestjs.com/assets/logo-small.svg)
+
 
   
 
