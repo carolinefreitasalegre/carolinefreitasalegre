@@ -23,8 +23,8 @@
   <img height="60" width="50" src="https://docs.nestjs.com/assets/logo-small.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img src="https://raw.githubusercontent.com/prisma/docs/main/images/favicon-16x16.png" alt="Prisma" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="C#" width="40"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40"/>  
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       
           
