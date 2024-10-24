@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  [NestJS](https://nestjs.com) ![NestJS logo](https://docs.nestjs.com/assets/logo-small.svg)
+  <img height="60" width="50" src="https://docs.nestjs.com/assets/logo-small.svg" />
 
 
   
