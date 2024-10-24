@@ -23,9 +23,11 @@
   <img height="60" width="50" src="https://docs.nestjs.com/assets/logo-small.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="50" height="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="60"/>  
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="60" height="70" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="70" height="70"/>  
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript"  width="70" height="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue.js"  width="70" height="70"/>
       
           
 </div>
