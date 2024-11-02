@@ -28,10 +28,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL"  width="50" height="60" />
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript"  width="50" height="60"/>
  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js" width="50" height="60"/>
-      
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-freitas-978925239/)
+
           
 </div>
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-freitas-978925239/)
 
 
