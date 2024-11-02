@@ -9,8 +9,8 @@
 
 <div display="flex" align="center" justify-content="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitas&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitas&layout=donut)](https://github.com/carolinefreitas/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&layout=donut)](https://github.com/carolinefreitas/github-readme-stats)
 
 </div>
 
