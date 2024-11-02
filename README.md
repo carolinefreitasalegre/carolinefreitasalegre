@@ -1,16 +1,16 @@
 <h1 align="center" color=""2DFFA0">Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
 
 
-<div align="center" justfycontent="center">
+<div align="center" justify-content="center">
 
  
 
 
 
-<div display="flex" align="center" justfycontent="center">
+<div display="flex" align="center" justify-content="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitas&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitas&layout=donut)](https://github.com/carolinefreitas/github-readme-stats)
 
 </div>
 
