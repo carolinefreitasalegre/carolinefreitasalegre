@@ -1,7 +1,7 @@
-<h1 align="center" color=""2DFFA0">Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
+<h1 align-items="center" color=""2DFFA0">Olá!!! Eu sou a Carol Freitas 👋🚀</h1>
 
 
-<div align="center" justify-content="center">
+<div align-items="center" justify-content="center">
 
  
 
@@ -10,7 +10,7 @@
 <div display="flex" align="center" justify-content="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&layout=donut)](https://github.com/carolinefreitas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&layout=donut)](https://github.com/carolinefreitasalegre/github-readme-stats)
 
 </div>
 
