@@ -10,7 +10,7 @@
 <div display="flex" align="center" justify-content="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinefreitasalegre&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroline&layout=donut)](https://github.com/caroline/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefreitasalegre&layout=donut)](https://github.com/carolinefreitasalegre/github-readme-stats)
 
 </div>
 
