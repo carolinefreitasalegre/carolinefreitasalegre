@@ -28,3 +28,5 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EntityFrameworkCore-8.0-6DB33F?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/Dapper-2C2E3A?style=for-the-badge&logo=database&logoColor=white)
+
