@@ -2,14 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6A5ACD&text=Carol%20Freitas&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=.NET%20Backend%20Developer&descAlignY=60"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carolinefreitasalegre&theme=github_dark"/>
-</p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carolinefreitasalegre&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolinefreitasalegre&theme=github_dark"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
